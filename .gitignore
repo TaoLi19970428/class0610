@@ -4,3 +4,5 @@ readme.md
 *.txt
 # 忽略node_modules文件夹
 node_modules/
+# 忽略01.css
+01.css
